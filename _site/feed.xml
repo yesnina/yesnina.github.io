@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-24T10:42:49+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/08/24/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-08-24T10:21:36+08:00</published><updated>2020-08-24T10:21:36+08:00</updated><id>http://localhost:4000/jekyll/update/2020/08/24/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/08/24/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/08/24/welcome-to-jekyll%E6%8B%B7%E8%B2%9D.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-08-24T10:21:36+08:00</published><updated>2020-08-24T10:21:36+08:00</updated><id>http://localhost:4000/jekyll/update/2020/08/24/welcome-to-jekyll%E6%8B%B7%E8%B2%9D</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/08/24/welcome-to-jekyll%E6%8B%B7%E8%B2%9D.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">testest</title><link href="http://localhost:4000/jekyll/update/2020/08/24/welcome-to-jekyll%E6%8B%B7%E8%B2%9D2.html" rel="alternate" type="text/html" title="testest" /><published>2020-08-24T10:21:36+08:00</published><updated>2020-08-24T10:21:36+08:00</updated><id>http://localhost:4000/jekyll/update/2020/08/24/welcome-to-jekyll%E6%8B%B7%E8%B2%9D2</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/08/24/welcome-to-jekyll%E6%8B%B7%E8%B2%9D2.html">&lt;h1 id=&quot;git-使用操作&quot;&gt;Git 使用操作&lt;/h1&gt;
+&lt;h6 id=&quot;tags-skill&quot;&gt;tags: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;skill&lt;/code&gt;&lt;/h6&gt;
+
+&lt;p&gt;https://backlog.com/git-tutorial/tw/reference/ssh.html
+基本概念:
+如何寫一個好的git commit message
+https://blog.louie.lu/2017/03/21/%E5%A6%82%E4%BD%95%E5%AF%AB%E4%B8%80%E5%80%8B-git-commit-message/
+參考資訊：
+https://yehchitsai.gitbooks.io/linux-usage/content/use_gitlab.html
+搭配 sourcetree 使用
+把gitlab上的東西clone下來，file-&amp;gt;clone，從gitlab上面複製http網址，選擇本機的資料夾&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;clone&lt;/strong&gt; :  會把整個專案的內容複製一份到你的電腦裡，這裡指的「內容」不是只有檔案，而是指所有整個專案的歷史紀錄、分支、標籤等內容都會複製一份下來。
+&lt;strong&gt;pull&lt;/strong&gt;： Pull 指令其實就是去上線抓東西下來（Fetch），並且更新本機的進度（Merge）而已，下載特定進度
+&lt;strong&gt;push&lt;/strong&gt;：先commit之後,才可以push!
+&lt;strong&gt;commit&lt;/strong&gt;: 要先stage,才可以commit,commit裡面要寫版號與修改的相關事項&lt;/p&gt;
+
+&lt;h3 id=&quot;指令&quot;&gt;&lt;strong&gt;指令：&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;1.初始設定-在目標目錄底下
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git init&lt;/code&gt;
+2.把遠端上的project clone 下來
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git clone http://...&lt;/code&gt;
+3.查看git目錄的相關資訊
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git status&lt;/code&gt;
+4.把檔案交給git-暫存區 (stash)
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git add xxx(檔案名稱&lt;/code&gt;
+5.提交到倉庫(commit) - 要輸入相關資訊,這次修改了什麼
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git commit -m &quot;xxxxx&quot;&lt;/code&gt;
+6.同時加到stash跟commit(合併步驟4、5)
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git commit -a -m &quot;xxxxxx&lt;/code&gt;
+7.查看git log 狀態
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git log --oneline&lt;/code&gt;
+8.HEAD是一個tab,在sourcetree上面就是那個小空心圓,通常會指著目前所在branch的位置
+9.merge,當branch 寫的差不多時,回到master,再 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git merge branch&lt;/code&gt;
+10.另外一種合併方式-&amp;gt;rebase
+(重新定義分支的參考基準!,看是要以誰為準!)
+11.git stash (在commit之前,把修改先存起來)
+git stash 可以放很多份,放多份之後可以再用
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git stash list&lt;/code&gt; 查看
+並用 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git stashh pop stash@{2}&lt;/code&gt; 撿回來
+12.設定upstream(上游),意旨local與remote的連結
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git push -u origin master&lt;/code&gt;
+或是每一次都指定要push到的remote branch&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;pull下載更新&lt;/li&gt;
+  &lt;li&gt;git pull = git fetch + git merge&lt;/li&gt;
+  &lt;li&gt;git pull –rebase (不會產生多個commit)
+-&amp;gt; 如果線上的版本比我的還新時,可以先pull –rebase,再進行push!
+16.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;使用sub_branch,在sub_branch裡面做好stage-&amp;gt;commit之後，然後切換回master_branch,再進行merge!&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;切換branch,切換到master
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git branch checkout master&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;branch 要做 merge
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git branch sub_branch&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;merge回去之後,再做push,就會更新master裡面的code了&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;整體流程run一次，當你更版好code之後&lt;/strong&gt;
+放入 stage
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git add xxxx.py&lt;/code&gt;
+進行 commit
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git commit -m xxxx.py&lt;/code&gt;
+切換 branch 至 master,再從master進行merge!!
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git branch checkout master&lt;/code&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git branch sub_branch&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;1.將gitlab上面的專案clone下來
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git clone 網址&lt;/code&gt;
+2.在local端新增branch   (刪除 : &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git branch -d branch_name&lt;/code&gt;)
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git branch branch_name&lt;/code&gt;
+3.切換branch
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git checkout branch_name&lt;/code&gt;
+4.查看branch
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git branch&lt;/code&gt;
+5.要上板前,先commit
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git commit -m &quot;your commit&quot;&lt;/code&gt;
+6.commit之後,可以push
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git push&lt;/code&gt;
+7.將 remote 上的 branch pull 下來到自己的master
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git checkout master&lt;/code&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git pull origin branch:master&lt;/code&gt;
+8.再把自己的master push 到 remote 的 master&lt;/p&gt;
+
+&lt;h3 id=&quot;特殊情境&quot;&gt;特殊情境&lt;/h3&gt;
+&lt;p&gt;1.檢視目前的使用者資訊設定
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git config --list&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;fork
+pull&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Git 使用操作 tags: skill</summary></entry></feed>

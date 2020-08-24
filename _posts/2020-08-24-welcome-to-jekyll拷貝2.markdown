@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "testest"
+date:   2020-08-24 10:21:36 +0800
+categories: jekyll update
+---
 # Git 使用操作
 ###### tags: `skill`
 
@@ -92,3 +98,4 @@ git stash 可以放很多份,放多份之後可以再用
 
 fork
 pull
+
