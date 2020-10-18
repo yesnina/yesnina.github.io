@@ -1,0 +1,94 @@
+I";<ul>
+  <li>參考資源：
+    <ul>
+      <li><a href="https://wcc723.github.io/jekyll/2014/01/13/windows-jekyll-server">jekyll在windows的安裝</a></li>
+      <li><a href="https://jekyllrb.com/docs/">jekyll安裝</a></li>
+      <li><a href="https://jekyllthemes.dev/]">jekyll的主題</a></li>
+    </ul>
+  </li>
+</ul>
+
+<ol>
+  <li>
+    <p>先在本機裝<a href="https://rubyinstaller.org/downloads/">Ruby</a>，直接安裝有Devkit的版本(with DEVKIT)</p>
+  </li>
+  <li>
+    <p>安裝好之後，可以在本機Ruby的資料夾下(/bin)發現gem執行檔</p>
+
+    <ul>
+      <li>這時可以先在CMD輸入gem看看有沒有成功執行gem</li>
+    </ul>
+  </li>
+  <li>
+    <p>用gem安裝jekyll</p>
+
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">gem install jekyll bundler</code></li>
+    </ul>
+  </li>
+  <li>
+    <p>用jekyll建立資料夾(之後要與github上gitbook連動的資料夾)</p>
+
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">jekyll new blog</code></li>
+    </ul>
+  </li>
+  <li>
+    <p>進入blog</p>
+
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">cd blog</code></li>
+    </ul>
+  </li>
+  <li>
+    <p>啟動jekyll serve啟動，可以在 http:127.0.0.1:4000 檢視有沒有建立成功</p>
+
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">bundle exec jekyll serve</code></li>
+    </ul>
+  </li>
+  <li>安裝chirpy主題
+    <ul>
+      <li>
+        <p>先從git上把chirpy的內容下載下來</p>
+      </li>
+      <li>
+        <p>把資料夾結構與相關內容(除了.github、.git檔案)複製原本jekyll所產生的blog資料夾內容</p>
+      </li>
+      <li>在blog資料夾中，使用 <code class="language-plaintext highlighter-rouge">bundle update</code>更新</li>
+      <li>再次使用 <code class="language-plaintext highlighter-rouge">bundle exec jekyll serve</code> 啟動，可以在 http:127.0.0.1:4000 檢視有沒有調整成功</li>
+      <li>在windows會出現沒有tzinfo的問題，打開blog資料夾中的gemfile檔案，加入下列資訊:
+        <blockquote>
+          <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><!-- <td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+</pre></td> --><td class="rouge-code"><pre>#Windows and JRuby does not include zoneinfo files,so bundle the tzinfo-data gem and associated library.
+platforms :mingw, :x64_mingw, :mswin, :jruby do
+gem "tzinfo", "~&gt; 1.2"
+gem "tzinfo-data"
+end
+#Performance-booster for watching directories on Windows
+gem "wdm", "~&gt; 0.1.1", :platforms =&gt; [:mingw, :x64_mingw, :mswin]
+</pre></td></tr></tbody></table></code></pre></div>          </div>
+        </blockquote>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>重新整理&amp;再次啟動</p>
+
+    <ul>
+      <li>
+        <p><code class="language-plaintext highlighter-rouge">bundle update</code></p>
+      </li>
+      <li>
+        <p><code class="language-plaintext highlighter-rouge">bundle exec jekyll serve</code></p>
+      </li>
+    </ul>
+  </li>
+</ol>
+:ET

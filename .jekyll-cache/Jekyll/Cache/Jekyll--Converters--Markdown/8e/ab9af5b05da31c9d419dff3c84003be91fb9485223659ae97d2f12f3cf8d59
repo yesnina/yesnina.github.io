@@ -1,9 +1,10 @@
-I"='<h2 id="installation">Installation</h2>
+I"Ú,<h2 id="installation">Installation</h2>
 
 <p><a href="https://github.com/cotes2020/jekyll-theme-chirpy/fork">Fork <strong>Chirpy</strong></a> on GitHub, and clone the fork to local by:</p>
 
-<div class="language-terminal highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">$</span><span class="w"> </span>git clone git@github.com:&lt;username&gt;/jekyll-theme-chirpy <span class="nt">-b</span> master <span class="nt">--single-branch</span>
-</code></pre></div></div>
+<div class="language-terminal highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="gp">$</span><span class="w"> </span>git clone git@github.com:&lt;username&gt;/jekyll-theme-chirpy <span class="nt">-b</span> master <span class="nt">--single-branch</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
 
 <h3 id="setting-up-the-local-envrionment">Setting up the local envrionment</h3>
 
@@ -11,8 +12,9 @@
 
 <p>Before running or building for the first time, please complete the installation of the Jekyll plugins. Go to the root directory of project and run:</p>
 
-<div class="language-terminal highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">$</span><span class="w"> </span>bundle <span class="nb">install</span>
-</code></pre></div></div>
+<div class="language-terminal highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="gp">$</span><span class="w"> </span>bundle <span class="nb">install</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
 
 <p><code class="language-plaintext highlighter-rouge">bundle</code> will automatically install all the dependencies specified by <code class="language-plaintext highlighter-rouge">Gemfile</code>.</p>
 
@@ -22,14 +24,16 @@
   <li>
     <p>Debian</p>
 
-    <div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">$</span><span class="w"> </span><span class="nb">sudo </span>apt-get <span class="nb">install </span>coreutils
-</code></pre></div>    </div>
+    <div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="gp">$</span><span class="w"> </span><span class="nb">sudo </span>apt-get <span class="nb">install </span>coreutils
+</pre></td></tr></tbody></table></code></pre></div>    </div>
   </li>
   <li>
     <p>macOS</p>
 
-    <div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">$</span><span class="w"> </span>brew <span class="nb">install </span>coreutils
-</code></pre></div>    </div>
+    <div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="gp">$</span><span class="w"> </span>brew <span class="nb">install </span>coreutils
+</pre></td></tr></tbody></table></code></pre></div>    </div>
   </li>
 </ul>
 
@@ -41,8 +45,9 @@
 
 <p>Go to the root directory of the project and start initialization:</p>
 
-<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">$</span><span class="w"> </span>bash tools/init.sh
-</code></pre></div></div>
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="gp">$</span><span class="w"> </span>bash tools/init.sh
+</pre></td></tr></tbody></table></code></pre></div></div>
 
 <blockquote>
   <p>If you not intend to deploy it on GitHub Pages, append parameter option <code class="language-plaintext highlighter-rouge">--no-gh</code> at the end of the above command.</p>
@@ -83,8 +88,9 @@
 
 <p>You may want to preview the site contents before publishing, so just run it by:</p>
 
-<div class="language-terminal highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">$</span><span class="w"> </span>bash tools/run.sh
-</code></pre></div></div>
+<div class="language-terminal highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="gp">$</span><span class="w"> </span>bash tools/run.sh
+</pre></td></tr></tbody></table></code></pre></div></div>
 
 <p>Then open a browser and visit to <a href="http://localhost:4000">http://localhost:4000</a>.</p>
 
@@ -113,8 +119,9 @@
 
 <p>Commit the changes of your repository first, then run the publish script:</p>
 
-<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">$</span><span class="w"> </span>bash tools/publish.sh
-</code></pre></div></div>
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="gp">$</span><span class="w"> </span>bash tools/publish.sh
+</pre></td></tr></tbody></table></code></pre></div></div>
 
 <blockquote>
   <p>Please note that the <em>Recent Update</em> list requires the latest git-log date of posts, thus make sure the changes in <code class="language-plaintext highlighter-rouge">_posts</code> have been committed before running this command.</p>
@@ -122,11 +129,15 @@
 
 <p>It will automatically generates the <em>Latest Modified Date</em> and <em>Categories / Tags</em> page for the posts and submit a commit, then push to <code class="language-plaintext highlighter-rouge">origin/master</code>. Its output is similar to the following log:</p>
 
-<div class="language-terminal highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="go">[INFO] Success to update lastmod for 4 post(s).
+<div class="language-terminal highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+</pre></td><td class="rouge-code"><pre><span class="go">[INFO] Success to update lastmod for 4 post(s).
 [INFO] Succeed! 3 category-pages created.
 [INFO] Succeed! 4 tag-pages created.
 [INFO] Published successfully!
-</span></code></pre></div></div>
+</span></pre></td></tr></tbody></table></code></pre></div></div>
 
 <p>Lastly, enable the pages service according to the instructions of the platform you choose.</p>
 
@@ -134,8 +145,9 @@
 
 <p>In the root of the source project, build your site by:</p>
 
-<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">$</span><span class="w"> </span>bash tools/build.sh <span class="nt">-d</span> /path/to/site/
-</code></pre></div></div>
+<div class="language-console highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="gp">$</span><span class="w"> </span>bash tools/build.sh <span class="nt">-d</span> /path/to/site/
+</pre></td></tr></tbody></table></code></pre></div></div>
 
 <p>The generated site files will be placed in the root of <code class="language-plaintext highlighter-rouge">/path/to/site/</code>. Now you should upload those files to your web server, such as Nginx.</p>
 :ET
